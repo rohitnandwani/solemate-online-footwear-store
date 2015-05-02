@@ -1,2 +1,4 @@
-# solemate-online-footwear-store
-Web engineering project and first attempt at PHP, MySQL, Dreamweaver
+
+
+Enables users to manage their account, browse products categorially and make online payments.
+Check out the screenshots folder to view the demo.
